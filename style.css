@@ -1,0 +1,57 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+p,
+li {
+  font-size: 22px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+#idboody
+{
+background-color: #ffffff;
+border: 5px solid black;
+padding: ;
+text-align: colum;
+}
+
+#cara1
+{
+background-color: #ffffff;
+border: 1px solid black;
+text-align: colum;
+width: 90;
+height: 190px;
+}
+
+#cara2
+{
+background-color: #ffffff;
+border: 1px solid black;
+text-align: colum;
+width: 90;
+height: 120px;
+}
+
+#cara3
+{
+background-color: #ffffff;
+border: 1px solid black;
+text-align: colum;
+width: 90;
+height: 190px;
+}
+
+#cara4
+{
+background-color: #ffffff;
+border: 1px solid black;
+text-align: colum;
+width: 90;
+height: 190px;
+}
